@@ -1,7 +1,7 @@
 ## Just my two cents hypothetic implementation of the ancient legendary snakemanic game while learning to code.
 ----------
 #### Screenshot
-![./Screenshot from 2022-01-02 16-12-27.png]() 
+![Screenshot from 2022-01-02 16-12-27.png](https://github.com/bryanisation/snakemania/blob/master/Screenshot%20from%202022-01-02%2016-12-27.png) 
 ----------
 #### Contains the following files:
 1. `main.py` An implementation file for the game 
