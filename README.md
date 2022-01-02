@@ -1,4 +1,4 @@
-## Just my two cents hypothetic implementation of the ancient legendary snakemaniac game while learning to code.
+## Just my two cents hypothetic implementation of the ancient legendary snakemanic game while learning to code.
 ----------
 #### Screenshot
 ![./Screenshot from 2022-01-02 16-12-27.png]() 
@@ -14,4 +14,8 @@
 
 #### Side Note:
 Looking for better ways to optimize it.....so hit me up ***@bryanisation*** 
+#### TODOs
+1. Restart game
+2. Keep High Score
+3. More Optimization
 
